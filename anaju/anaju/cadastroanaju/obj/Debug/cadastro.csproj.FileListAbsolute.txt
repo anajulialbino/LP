@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\bin\Debug\cadastro.exe.config
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\bin\Debug\cadastro.exe
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\bin\Debug\cadastro.pdb
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.Form1.resources
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.Properties.Resources.resources
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.exe
+C:\Users\Aluno\Downloads\cadastro viniesoso-20240923T111419Z-001\cadastroanaju\obj\Debug\cadastro.pdb
